@@ -1,0 +1,2 @@
+# VALI
+valimarket.com is a digital asset exchange platform designed for both professional traders and retail investors. The platform allows users to buy, sell, and store digital assets.  By running on its own in-house proprietary system, valimarket.com is able to run a perfect ecosystem with high-liquidity.  With its vision to be the World’s Leading Digital Asset Exchange, the group aims to deliver trustable and secured digital asset trading services. valimarket.com ensures discretion by protecting client assets with a world-class multi-layer security system.
